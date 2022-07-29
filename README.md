@@ -1,4 +1,4 @@
-[![MasterHead](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/low-code-no-code1_0.jpg?itok=VtUw2Un_)]
+![MasterHead](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/low-code-no-code1_0.jpg?itok=VtUw2Un_)
 
 <h1 align="center">Hi 👋, I'm Alex Colombo</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
