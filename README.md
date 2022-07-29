@@ -4,9 +4,7 @@
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 <img align="right" alt="programing" width="150" src="https://i0.wp.com/taskbcn.com/wp-content/uploads/2018/09/1OF0xEMkWBv-69zvmNs6RDQ.gif?fit=1200%2C525&ssl=1&resize=350%2C200">
-<br>
-<br>
-<br>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleskywaker&label=Profile%20views&color=0e75b6&style=flat" alt="aleskywaker" /> </p>
