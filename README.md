@@ -5,7 +5,7 @@
 
 <img align="right" alt="programing" width="150" src="https://i0.wp.com/taskbcn.com/wp-content/uploads/2018/09/1OF0xEMkWBv-69zvmNs6RDQ.gif?fit=1200%2C525&ssl=1&resize=350%2C200">
 
-<img align="right" alt="programing" width="150" style="margin-right=10px;" src="https://media.baamboozle.com/uploads/images/46036/1640695494_333365_gif-url.gif">
+<img align="right" alt="programing" width="150" styles="margin-right=10px;" src="https://media.baamboozle.com/uploads/images/46036/1640695494_333365_gif-url.gif">
 
 
 
