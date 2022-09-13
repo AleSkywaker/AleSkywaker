@@ -1,10 +1,10 @@
 <!-- <h1 align="center">Hi 👋, I'm Alex Colombo</h1> -->
 <!-- <h3 align="center">A passionate developer from Bangladesh 🇧🇩</h3> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleskywaker&label=Profile%20views&color=0e75b6&style=flat" alt="aleskywaker" /> </p>
+
 
 <!-- - 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis) -->
 
-- 🌱 I’m currently learning **NextJS**
+<!-- - 🌱 I’m currently learning **NextJS** -->
 
 <!-- - 📫 How to reach me **@** -->
 
@@ -152,3 +152,5 @@ For ICON Idea
 </p>
 
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleskywaker&label=Profile%20views&color=0e75b6&style=flat" alt="aleskywaker" /> </p>
