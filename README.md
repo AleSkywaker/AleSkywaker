@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex Colombo</h1>
+<!-- <h1 align="center">Hi 👋, I'm Alex Colombo</h1> -->
 <!-- <h3 align="center">A passionate developer from Bangladesh 🇧🇩</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleskywaker&label=Profile%20views&color=0e75b6&style=flat" alt="aleskywaker" /> </p>
 
@@ -114,10 +114,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devded&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
  </p> -->
 
+<!--
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aleskywaker&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleskywaker&theme=tokyonight" />
 </p>
+
+-->
 
 <!--
 
